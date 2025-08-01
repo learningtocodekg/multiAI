@@ -1,4 +1,4 @@
-# AI Collaboration Platform
+# AI Collaboration Platform - untested!
 
 A web application where two different AI models collaborate to improve responses through iterative refinement with dynamic personalities. Watch as distinct AI models work together, each using different personality modes to review and improve each other's work.
 
@@ -201,6 +201,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Ensure both generator and reviewer models are selected
 - Check that API keys are available for both selected providers
 
-## Support
-
-For support, please open an issue on GitHub or contact the development team. 
