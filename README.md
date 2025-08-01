@@ -1,4 +1,4 @@
-# AI Collaboration Platform - untested!
+# AI Collaboration Platform - not fully tested.
 
 A web application where two different AI models collaborate to improve responses through iterative refinement with dynamic personalities. Watch as distinct AI models work together, each using different personality modes to review and improve each other's work.
 
