@@ -1,0 +1,20 @@
+{
+  "name": "ai-collaboration-platform",
+  "version": "1.0.0",
+  "description": "A web application where AI models collaborate to improve responses through iterative refinement with dynamic personalities",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["ai", "collaboration", "react", "nodejs", "openai", "anthropic"],
+  "author": "AI Collaboration Platform Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
